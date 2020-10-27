@@ -8,6 +8,8 @@ namespace Training
         static void Main(string[] args)
         {
             // Code was added in github!
+            Console.WriteLine("The code was added in GitHub");
+            Console.ReadLine();
         } 
 
     }
